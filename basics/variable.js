@@ -7,6 +7,7 @@ let city = "Pune";
 const country = "India";
 
 // 3. Different Data Types
+//number, string, boolean, undefined, null, bigint, symbol.
 let isStudent = true;
 let marks = 85.5;
 let course;
